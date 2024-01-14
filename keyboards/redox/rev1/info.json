@@ -1,16 +1,12 @@
 {
   "keyboard_name": "Redox",
-  "manufacturer": "Falbatech",
+  "manufacturer": "Handwired",
   "url": "",
   "maintainer": "qmk",
   "usb": {
     "vid": "0x4D44",
     "pid": "0x5244",
     "device_version": "1.0.0"
-  },
-  "rgblight": {
-    "led_count": 14,
-    "split": true
   },
   "layouts": {
     "LAYOUT": {
